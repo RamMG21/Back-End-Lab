@@ -1,0 +1,1 @@
+🚀 Back-End Development Lab with Node.js. This repository contains hands-on projects and experiments focused on building servers, handling REST APIs, database integrations, middleware, and advanced concepts like authentication and sockets. Perfect for exploring and sharpening back-end development skills.
